@@ -1,4 +1,3 @@
-
 export default function Nav() {
     const cardColor= document.querySelectorAll('.card')
     return (
